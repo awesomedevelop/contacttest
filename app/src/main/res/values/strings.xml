@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Контакты</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="tranparent">#33FFFFFF</color>
+    <color name="text_prime">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="tittle">#212121</color>
+    <color name="white">#FFFFFF</color>
+    <color name="action_bar">#03A9F4</color>
+    <color name="button">#2196f3</color>
+
+    <string name="title_activity_edit">EditActivity</string>
+
+</resources>
